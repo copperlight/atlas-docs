@@ -258,7 +258,7 @@ nav:
       - Servo Migration: spectator/lang/java/servo-migration.md
     - JavaScript:
       - Usage: spectator/lang/js/usage.md
-      - Migrations: spectator/lang/py/migrations.md
+      - Migrations: spectator/lang/js/migrations.md
       - Extensions:
         - Node.js Runtime Metrics:
           - CPU: spectator/lang/js/ext/nodejs-cpu.md
