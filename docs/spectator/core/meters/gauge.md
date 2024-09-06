@@ -15,7 +15,7 @@ may have been much higher or lower at some point during interval, but that is no
 * [C++](../../lang/cpp/usage.md)
 * [Go](../../lang/go/usage.md)
 * [Java](../../lang/java/meters/gauge.md)
-* [Node.js](../../lang/nodejs/meters/gauge.md)
+* [JavaScript](../../lang/js/usage.md)
 * [Python](../../lang/py/meters/gauge.md)
 
 ### Best-Effort Support

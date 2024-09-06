@@ -21,7 +21,7 @@ in a timely manner and updates are published regularly.
 * [C++](cpp/usage.md)
 * [Go](go/usage.md)
 * [Java](java/usage.md)
-* [Node.js](nodejs/usage.md)
+* [Node.js](js/usage.md)
 * [Python](py/usage.md)
 
 ## Best-Effort Support

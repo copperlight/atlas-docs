@@ -22,7 +22,7 @@ graph.
 * [C++](../../lang/cpp/usage.md)
 * [Go](../../lang/go/usage.md)
 * [Java](../../lang/java/meters/counter.md)
-* [Node.js](../../lang/nodejs/meters/counter.md)
+* [JavaScript](../../lang/js/usage.md)
 * [Python](../../lang/py/meters/counter.md)
 
 ### Best-Effort Support

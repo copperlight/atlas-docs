@@ -21,7 +21,7 @@ At a minimum, you need to:
         * [C++](lang/cpp/usage.md)
         * [Go](lang/go/usage.md)
         * [Java](lang/java/usage.md)
-        * [Node.js](lang/nodejs/usage.md)
+        * [Node.js](lang/js/usage.md)
         * [Python](lang/py/usage.md)
     * Best-Effort Support
         * Rust (internal library)   
